@@ -1,6 +1,6 @@
 using DDDExample.Domain.Entities;
 using DDDExample.Domain.Repositories;
-using DDDExample.Infrastructure.Persistence;
+using DDDExample.Infrastructure.Persistence.MongoDB; // <-- CORRECTO
 using MongoDB.Driver;
 
 namespace DDDExample.Infrastructure.Repositories

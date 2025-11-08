@@ -9,13 +9,19 @@
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="12.0.1" />
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.3.0" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.9" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="9.0.10" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="9.0.10" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="9.0.10" />
+    <PackageReference Include="MongoDB.Driver" Version="3.5.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\DDDExample.Application\DDDExample.Application.csproj" />
     <ProjectReference Include="..\DDDExample.Infrastructure\DDDExample.Infrastructure.csproj" />
+    <ProjectReference Include="..\DDDExample.Middleware\DDDExample.Middleware.csproj" />
   </ItemGroup>
 
 </Project>

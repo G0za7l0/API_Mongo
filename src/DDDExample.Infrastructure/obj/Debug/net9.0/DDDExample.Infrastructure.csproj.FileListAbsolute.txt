@@ -15,3 +15,4 @@ C:\Docker_compose\API_mongo\src\DDDExample.Infrastructure\obj\Debug\net9.0\DDDEx
 C:\Docker_compose\API_mongo\src\DDDExample.Infrastructure\obj\Debug\net9.0\refint\DDDExample.Infrastructure.dll
 C:\Docker_compose\API_mongo\src\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExample.Infrastructure.pdb
 C:\Docker_compose\API_mongo\src\DDDExample.Infrastructure\obj\Debug\net9.0\ref\DDDExample.Infrastructure.dll
+C:\Docker_compose\API_mongo\src\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExample.Infrastructure.sourcelink.json

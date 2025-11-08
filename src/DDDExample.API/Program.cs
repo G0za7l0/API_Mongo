@@ -1,4 +1,6 @@
 using DDDExample.API;
+using DDDExample.API.Middleware;
+using DDDExample.Infrastructure.Persistence.MongoDB;
 using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -20,8 +22,12 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
-// Inyección de dependencias personalizada (MongoDB, Repositorios, Servicios, AutoMapper)
+// Inyección de dependencias personalizada (MongoDB, Repositorios, Servicios, AutoMapper, Middleware)
 builder.Services.AddProjectServices(builder.Configuration);
+
+// Configuración MongoDB para ResponseTimeLogs (opcional si tu repositorio lo requiere)
+builder.Services.Configure<MongoDbSettings>(
+    builder.Configuration.GetSection("MongoDBSettings"));
 
 var app = builder.Build();
 
@@ -38,6 +44,10 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+// Middleware de métricas de tiempo de respuesta
+app.UseResponseTimeLogging();
+
 app.UseAuthorization();
 
 app.MapControllers(); // Mapea todos los controladores

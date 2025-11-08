@@ -47,3 +47,10 @@ C:\Docker_compose\API_mongo\src\DDDExample.API\obj\Debug\net9.0\refint\DDDExampl
 C:\Docker_compose\API_mongo\src\DDDExample.API\obj\Debug\net9.0\DDDExample.API.pdb
 C:\Docker_compose\API_mongo\src\DDDExample.API\obj\Debug\net9.0\DDDExample.API.genruntimeconfig.cache
 C:\Docker_compose\API_mongo\src\DDDExample.API\obj\Debug\net9.0\ref\DDDExample.API.dll
+C:\Docker_compose\API_mongo\src\DDDExample.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Docker_compose\API_mongo\src\DDDExample.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Docker_compose\API_mongo\src\DDDExample.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Docker_compose\API_mongo\src\DDDExample.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Docker_compose\API_mongo\src\DDDExample.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Docker_compose\API_mongo\src\DDDExample.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Docker_compose\API_mongo\src\DDDExample.API\obj\Debug\net9.0\DDDExample.API.sourcelink.json

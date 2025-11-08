@@ -9,3 +9,5 @@ C:\Docker_compose\API_mongo\src\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Do
 C:\Docker_compose\API_mongo\src\DDDExample.Domain\obj\Debug\net9.0\refint\DDDExample.Domain.dll
 C:\Docker_compose\API_mongo\src\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.pdb
 C:\Docker_compose\API_mongo\src\DDDExample.Domain\obj\Debug\net9.0\ref\DDDExample.Domain.dll
+C:\Docker_compose\API_mongo\src\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.csproj.AssemblyReference.cache
+C:\Docker_compose\API_mongo\src\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.sourcelink.json
