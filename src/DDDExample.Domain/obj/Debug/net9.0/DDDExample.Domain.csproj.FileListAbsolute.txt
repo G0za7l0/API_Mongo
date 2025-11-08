@@ -1,0 +1,11 @@
+C:\Docker_compose\API_mongo\src\DDDExample.Domain\bin\Debug\net9.0\DDDExample.Domain.deps.json
+C:\Docker_compose\API_mongo\src\DDDExample.Domain\bin\Debug\net9.0\DDDExample.Domain.dll
+C:\Docker_compose\API_mongo\src\DDDExample.Domain\bin\Debug\net9.0\DDDExample.Domain.pdb
+C:\Docker_compose\API_mongo\src\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Docker_compose\API_mongo\src\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.AssemblyInfoInputs.cache
+C:\Docker_compose\API_mongo\src\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.AssemblyInfo.cs
+C:\Docker_compose\API_mongo\src\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.csproj.CoreCompileInputs.cache
+C:\Docker_compose\API_mongo\src\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.dll
+C:\Docker_compose\API_mongo\src\DDDExample.Domain\obj\Debug\net9.0\refint\DDDExample.Domain.dll
+C:\Docker_compose\API_mongo\src\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.pdb
+C:\Docker_compose\API_mongo\src\DDDExample.Domain\obj\Debug\net9.0\ref\DDDExample.Domain.dll

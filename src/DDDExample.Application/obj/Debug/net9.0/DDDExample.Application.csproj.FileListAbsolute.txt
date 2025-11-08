@@ -1,0 +1,15 @@
+C:\Docker_compose\API_mongo\src\DDDExample.Application\bin\Debug\net9.0\DDDExample.Application.deps.json
+C:\Docker_compose\API_mongo\src\DDDExample.Application\bin\Debug\net9.0\DDDExample.Application.dll
+C:\Docker_compose\API_mongo\src\DDDExample.Application\bin\Debug\net9.0\DDDExample.Application.pdb
+C:\Docker_compose\API_mongo\src\DDDExample.Application\bin\Debug\net9.0\DDDExample.Domain.dll
+C:\Docker_compose\API_mongo\src\DDDExample.Application\bin\Debug\net9.0\DDDExample.Domain.pdb
+C:\Docker_compose\API_mongo\src\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.csproj.AssemblyReference.cache
+C:\Docker_compose\API_mongo\src\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Docker_compose\API_mongo\src\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.AssemblyInfoInputs.cache
+C:\Docker_compose\API_mongo\src\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.AssemblyInfo.cs
+C:\Docker_compose\API_mongo\src\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.csproj.CoreCompileInputs.cache
+C:\Docker_compose\API_mongo\src\DDDExample.Application\obj\Debug\net9.0\DDDExamp.2A6DDB36.Up2Date
+C:\Docker_compose\API_mongo\src\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.dll
+C:\Docker_compose\API_mongo\src\DDDExample.Application\obj\Debug\net9.0\refint\DDDExample.Application.dll
+C:\Docker_compose\API_mongo\src\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.pdb
+C:\Docker_compose\API_mongo\src\DDDExample.Application\obj\Debug\net9.0\ref\DDDExample.Application.dll
