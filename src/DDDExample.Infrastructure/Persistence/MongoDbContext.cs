@@ -1,5 +1,6 @@
 using MongoDB.Driver;
 using DDDExample.Domain.Entities;
+using DDDExample.Domain.Models;
 
 namespace DDDExample.Infrastructure.Persistence.MongoDB
 {
@@ -19,9 +20,14 @@ namespace DDDExample.Infrastructure.Persistence.MongoDB
             _database = client.GetDatabase(settings.DatabaseName);
         }
 
-        public IMongoCollection<Product> Products => _database.GetCollection<Product>("Products");
+        // Propiedad pública para acceder a la base de datos directamente
+        public IMongoDatabase Database => _database;
 
-        // Puedes agregar otras colecciones aquí
+        // Colecciones de dominio
+        public IMongoCollection<Product> Products => _database.GetCollection<Product>("Products");
+        public IMongoCollection<MemoryMetric> MemoryMetrics => _database.GetCollection<MemoryMetric>("MemoryMetrics");
+
+        // Puedes agregar otras colecciones según tu dominio
         // public IMongoCollection<ResponseTimeLog> ResponseTimeLogs => _database.GetCollection<ResponseTimeLog>("responseTimeLogs");
     }
 }
